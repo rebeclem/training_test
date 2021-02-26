@@ -8,3 +8,5 @@ Training repository for NCEAS tutorial
 
 
 Git is a great tool
+
+I'm adding a line here
