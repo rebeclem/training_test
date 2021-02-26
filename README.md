@@ -5,3 +5,6 @@ Training repository for NCEAS tutorial
 1. Termite
 2. Dragonfly
 3. Lacewing
+
+
+Git is a great tool
